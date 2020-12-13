@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/LexferRam/condominio/static/js/main.b484dc5a.chunk.js",
+    "main.js.map": "/LexferRam/condominio/static/js/main.b484dc5a.chunk.js.map",
+    "runtime-main.js": "/LexferRam/condominio/static/js/runtime-main.40e41a61.js",
+    "runtime-main.js.map": "/LexferRam/condominio/static/js/runtime-main.40e41a61.js.map",
+    "static/js/2.14dbbb80.chunk.js": "/LexferRam/condominio/static/js/2.14dbbb80.chunk.js",
+    "static/js/2.14dbbb80.chunk.js.map": "/LexferRam/condominio/static/js/2.14dbbb80.chunk.js.map",
+    "index.html": "/LexferRam/condominio/index.html",
+    "precache-manifest.075d87c1a16278324c3717796567f4be.js": "/LexferRam/condominio/precache-manifest.075d87c1a16278324c3717796567f4be.js",
+    "service-worker.js": "/LexferRam/condominio/service-worker.js",
+    "static/js/2.14dbbb80.chunk.js.LICENSE": "/LexferRam/condominio/static/js/2.14dbbb80.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40e41a61.js",
+    "static/js/2.14dbbb80.chunk.js",
+    "static/js/main.b484dc5a.chunk.js"
+  ]
+}
